@@ -17,7 +17,7 @@
     <file path="/LocalFile.java" changelist="3189b91e-7e22-4a7e-972b-49b53475dd9c" time="1384182426416" ignored="false" />
     <file path="/Node.java" changelist="3189b91e-7e22-4a7e-972b-49b53475dd9c" time="1384182475221" ignored="false" />
     <file path="/Utils.java" changelist="3189b91e-7e22-4a7e-972b-49b53475dd9c" time="1384182625939" ignored="false" />
-    <file path="/Dummy.txt" changelist="3189b91e-7e22-4a7e-972b-49b53475dd9c" time="1384278658473" ignored="false" />
+    <file path="/Dummy.txt" changelist="3189b91e-7e22-4a7e-972b-49b53475dd9c" time="1384278665849" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +313,11 @@
       <created>1384278661478</created>
       <updated>1384278661478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rest">
+      <created>1384278668716</created>
+      <updated>1384278668716</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
