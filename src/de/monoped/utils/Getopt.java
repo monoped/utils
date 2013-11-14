@@ -7,15 +7,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Created with IntelliJ IDEA.
- * User: bernd
- * Date: 10.11.13
- * Time: 23:21
- * To change this template use File | Settings | File Templates.
+ * @author bernd.eggink@monoped.de
  */
+
 public class Getopt {
 
-    private static final int INSPACE = 0, INWORD = 1;
     /**
      * Handles program arguments like Unix getopt(). Example: <pre>
      *  void main(String[] argv)
@@ -65,8 +61,7 @@ public class Getopt {
      * <p/>
      *  </pre>
      *
-     * @author Bernd Eggink (Bernd.Eggink@sudrala.de)
-     */
+     **/
 
 
     private String[] argv;
